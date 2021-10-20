@@ -3,7 +3,7 @@
 
 My name is Felipe I'm from Colombia and I'm an Programer.
 
-* Currently working for [@tTurismoi](https://github.com/Turismoi)
+* Currently working for [@Turismoi](https://github.com/Turismoi)
 * I have a [YouTube channel](https://www.youtube.com/channel/UCqJbFsanrjs7BW4lPurxQcQ) (in Spanish) about Python.
 * 📍 Risaralda caldas, caldas, colombia.
 

@@ -1,10 +1,11 @@
-### Hello 👋
+### print("Hello Word" + " " + "I'm FelipedelosH")
 
 
 My name is Felipe I'm from Colombia and I'm an Programer.
 
-* Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
+* Currently working for [@tTurismoi](https://github.com/Turismoi)
 * I have a [YouTube channel](https://www.youtube.com/channel/UCqJbFsanrjs7BW4lPurxQcQ) (in Spanish) about Python.
+* 📍 Risaralda caldas, caldas, colombia.
 
 ## Skills
 
@@ -14,6 +15,7 @@ My name is Felipe I'm from Colombia and I'm an Programer.
 
 ## Contact
 
+* doctorfhernandez@hotmail.com
 * https://www.instagram.com/felipehernandez.rar/
 
 

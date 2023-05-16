@@ -3,7 +3,7 @@
 
 My name is Felipe I'm from Colombia and I'm an Programer.
 
-* Currently i need find JOB
+* Currently I JOB in Hospital San Rafael (Risaralda Caldas)
 * I have a [YouTube channel](https://www.youtube.com/channel/UCqJbFsanrjs7BW4lPurxQcQ) (in Spanish) about Python.
 * 📍 Risaralda caldas, caldas, colombia.
 

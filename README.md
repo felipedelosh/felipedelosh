@@ -3,7 +3,7 @@
 
 My name is Felipe I'm from Colombia and I'm an Programer.
 
-* Currently I NEED TO FIND JOB
+* Currently I Programm & Teach
 * I have a [YouTube channel](https://www.youtube.com/channel/UCqJbFsanrjs7BW4lPurxQcQ) (in Spanish) about Python.
 * 📍 Risaralda caldas, caldas, colombia.
 

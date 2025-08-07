@@ -3,15 +3,19 @@
 
 My name is Felipe I'm from Colombia and I'm an Programer.
 
-* Currently I Programm & Need Find JOB
+* Currently I Programm. RxKotlin BK.
 * I have a [YouTube channel](https://www.youtube.com/channel/UCqJbFsanrjs7BW4lPurxQcQ) (in Spanish) about Python.
-* 📍 Risaralda caldas, caldas, colombia.
+* 📍 Manizales caldas, Caldas, Colombia.
 
 ## Skills
 
-* Python
-* Java
-* HTML5
+* Clean Architecture + Layers.
+* SOLID.
+* Apis.
+
+* Python.
+* Java + Kotlin.
+* HTML5.
 
 ## Contact
 
